@@ -45,6 +45,8 @@ I'm a graduate in Computer Science Engineering 🎓 from Anna University,Chennai
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
+<br/>
+<br/>
 
 
 
@@ -55,7 +57,7 @@ I'm a graduate in Computer Science Engineering 🎓 from Anna University,Chennai
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aathif-amed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aathif-amed&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
-###☄️ Github Streaks
+### ☄️ Github Streaks
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aathif-amed&hide_border=true" />
