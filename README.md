@@ -23,7 +23,6 @@ I'm a graduate in Computer Science Engineering 🎓 from Anna University,Chennai
 - 🛠 &nbsp; I’m currently working with HTML, CSS, Javascript, React <br /> Nodejs, Express, Mongodb etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Aathif-amed).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/Aathif-amed/Aathif/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: NaN is a Number in Javascript.
 - 📫 &nbsp; How to reach me: aathifamed@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Tyb80B4JWgBuzYhJkLHuOrKuC9phmZTL/view?usp=sharing).
@@ -46,6 +45,7 @@ I'm a graduate in Computer Science Engineering 🎓 from Anna University,Chennai
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aathif-amed&show_icons=true&locale=en" alt="Aathif-amed" /></p>
 
 <hr>
+
 ###  ☄️ Github Streaks
 <br/>
 
