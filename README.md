@@ -46,7 +46,7 @@ I'm a graduate in Computer Science Engineering 🎓 from Anna University,Chennai
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aathif-amed&show_icons=true&locale=en" alt="Aathif-amed" /></p>
 
 <hr>
-### ☄️ Github Streaks
+###  ☄️ Github Streaks
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aathif-amed&" alt="Aathif-amed" /></p>
